@@ -1,0 +1,59 @@
+body {
+    background-image: url('Imagenes/Fondo.jpg');
+    background-size: cover;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  h2{
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    align-items: center;
+    justify-content: center;
+  }
+  
+  label{
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+
+  .figure {
+    display: inline-block;
+    margin: 60px;
+  }
+  
+  .figure img {
+    width: 275px;
+    height: 275px;
+  }
+
+  .figure p{
+    justify-content: center;
+    color: aliceblue;
+    font-size: 1.25em;
+  }
+  
+  .button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  
+  .button:hover {
+    background-color: #2980b9;
+    align-items: center;
+    justify-content: center;
+  }  
